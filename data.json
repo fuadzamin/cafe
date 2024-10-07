@@ -1,0 +1,134 @@
+{
+    "arabica": [
+        {
+            "nama":"Kopi Arabika Sidikalang",
+            "size":"1.000 Gram",
+            "harga":"Rp.148.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/1.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabika-sidikalang-1000-gr-biji"
+         },
+         {
+            "nama":"Kopi Arabica Aceh Gayo Super",
+            "size":"500 Gram",
+            "harga":"Rp.58.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/2.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabica-aceh-gayo-super-500-gr-bubuk-kasar"
+         },
+         {
+            "nama":"Kopi Arabica Gayo Honey Process",
+            "size":"1.000 Gram",
+            "harga":"Rp.200.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/3.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabica-gayo-honey-process-1-kg-bubuk-halus"
+         },
+         {
+            "nama":"Kopi Arabica Gayo Premium Specialty",
+            "size":"200 Gram",
+            "harga":"Rp.49.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/4.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabica-gayo-premium-specialty-200-gr-bubuk-biji-grosir-biji"
+         },
+         {
+            "nama":"Kopi Luwak Liar Arabica Gayo",
+            "size":"1.000 Gram",
+            "harga":"Rp.280.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/5.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-luwak-liar-arabica-gayo-1kg-biji-bubuk-bubuk-halus"
+         },
+         {
+            "nama":"Kopi Arabica Gayo Peaberry",
+            "size":"500 Gram",
+            "harga":"Rp.105.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/6.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabica-gayo-peaberry-jantan-500-gr-bubuk-biji-biji"
+         },
+         {
+            "nama":"Kopi Arabica Gayo Wine",
+            "size":"500 Gram",
+            "harga":"Rp.118.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/7.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-arabika-gayo-wine-500-gr-biji-bubuk-grosir-reseller-dropshiper-bubuk-halus"
+         },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "Rp.200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "Rp.100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "Rp.150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "Rp.500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "Rp.150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "Rp.150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama":"Kopi Aceh Robusta Gayo Natural Premium",
+            "size":"250 Gram",
+            "harga":"Rp.25.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/8.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-aceh-robusta-gayo-natural-premium-250-gr-bubuk-kasar"
+         },
+         {
+            "nama":"Kopi Robusta Natural Sidikalang Premium",
+            "size":"500 Gram",
+            "harga":"Rp.40.000",
+            "foto":"https:\/\/rikikurnia.com\/prakerja\/api\/img\/9.jpg",
+            "link":"https:\/\/www.tokopedia.com\/sopic-store\/kopi-robusta-natural-sidikalang-premium-500-gr-biji"
+         }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "Rp.500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://www.sasa.co.id/medias/page_medias/es_cendol_nangka.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "Rp.500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "nama":"Es Krim Mangkok",
+            "size":"250 Gram",
+            "harga":"Rp.25.000",
+            "foto":"https:\/\/p0.pxfuel.com\/preview\/861\/839\/598\/ice-ice-cream-ice-cream-sundae-sweet.jpg",
+            "link":"https:\/\/www.tokopedia.com\/jakartagrosirjaya\/aice-vanilla-chocolate-sundae-ice-cream-eskrim-800-ml"
+         }
+    ]
+}
